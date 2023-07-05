@@ -1,6 +1,10 @@
 body {
     display: flex;
     flex-direction: column;
+    background-image: url(/galaxy-3468.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 main {
@@ -17,4 +21,5 @@ article {
 aside {
     flex: 1;
     overflow-y: auto;
+    background: none;
 }
