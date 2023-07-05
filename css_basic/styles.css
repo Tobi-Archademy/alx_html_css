@@ -7,6 +7,10 @@ body {
     color: white;
 }
 
+header li {
+    color: beige;
+}
+
 main {
     display: flex;
     flex-direction: row;
