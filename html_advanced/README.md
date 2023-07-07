@@ -7,4 +7,7 @@ This is the next step in my journey to becoming a web developer. This path is in
 This repo is containing all project files on the "Get Schooled" Webpage.
 
 I will be building a nice webpage just like the attached image - 
+
+## Markdown Preview
+
 ![img] (/webpage screenshot.png)
