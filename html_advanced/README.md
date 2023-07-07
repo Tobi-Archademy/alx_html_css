@@ -8,6 +8,7 @@ This repo is containing all project files on the "Get Schooled" Webpage.
 
 I will be building a nice webpage just like the attached image - 
 
-## Markdown Preview
+## Webpage Preview
 
-![img] (/webpage screenshot.png)
+![web image](<../webpage screenshot.png>)
+
