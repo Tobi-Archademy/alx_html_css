@@ -10,4 +10,4 @@ I will be building a nice webpage just like the attached image -
 
 ## Webpage Preview
 
-![web image](<webpage screenshot.png>)
+![web image](<full_header.jpeg>)
